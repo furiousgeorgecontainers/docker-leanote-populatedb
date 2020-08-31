@@ -1,4 +1,4 @@
-FROM mongo:3.2.3
+FROM mongo:3.6
 
 ARG BUILD_DATE
 ARG VERSION
